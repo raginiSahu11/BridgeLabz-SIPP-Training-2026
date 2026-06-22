@@ -1,0 +1,13 @@
+========== NEW RESULT ENTRY ==========
+Student Name : John
+Average Marks: 85.00
+Grade        : A
+----------------------------------
+Student Name : Alice
+Average Marks: 85.00
+Grade        : A
+----------------------------------
+Student Name : Bob
+Average Marks: 65.00
+Grade        : C
+----------------------------------
